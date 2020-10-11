@@ -33,7 +33,7 @@ const Layout = ({ children }) => {
         <footer className="Footer">
           © {new Date().getFullYear()},
           {` `}
-          <a href="https://">&nbsp; oltostudios</a>
+          <a href="https://Harumu.com">&nbsp; Harumu</a>, Develop by Pham Xuan Tiep
         </footer>
       </div>
     </>

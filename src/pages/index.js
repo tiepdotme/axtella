@@ -59,7 +59,7 @@ const IndexPage = props => {
               <i style={{ color: "#fff" }} className="material-icons">
                 phone_iphone
               </i>
-              +233 55 827 0333
+              033 703 6819
             </button>
           </a>
           <h1>FIND YOUR DREAM HOME TODAY</h1>
@@ -237,7 +237,7 @@ const IndexPage = props => {
       <div className="Finder">
         <p>
           <i className="material-icons">phone_iphone</i>
-          +233 54 135 6456
+          033 703 6819
         </p>
         <h1>LET'S FIND THE RIGHT PROPERTY FOR YOU</h1>
         <Link to="/contact">
