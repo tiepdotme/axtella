@@ -64,7 +64,7 @@ const IndexPage = props => {
           </a>
           <h1>FIND YOUR DREAM HOME TODAY</h1>
           <p>
-            Contact Axtella for all your Construction & Real Estate Services.
+            Contact Harumu for all your Construction & Real Estate Services.
           </p>
           <Link to="/contact">
             <button className="ContactUsButton">Contact us</button>
@@ -141,7 +141,7 @@ const IndexPage = props => {
           <h1>ABOUT US</h1>
 
           <p>
-            <b>Axtella Properties & Investments</b> is a fully legislated Real
+            <b>Harumu Properties & Investments</b> is a fully legislated Real
             Estate Company based in Accra. <br />
           </p>
           <p>

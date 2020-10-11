@@ -9,10 +9,10 @@ const About = () => (
   <div className="About-Hero">
   <div className="About1">
   <h1>About Us</h1>
-  <p><b>Axtella Properties & Investments</b> is a fully legislated Real Estate Company based in Accra. <br/> We have over 5 years combined experience covering Sales, Letting & Property Management. We are specialized in Luxury Properties & investment opportunities for foreign investors. Our reputation has grown to represent a trust worthy and transparent independent company providing an exceptional level of customer service.
+  <p><b>RealEstateLists Properties & Investments</b> is a fully legislated Real Estate Company based in Accra. <br/> We have over 5 years combined experience covering Sales, Letting & Property Management. We are specialized in Luxury Properties & investment opportunities for foreign investors. Our reputation has grown to represent a trust worthy and transparent independent company providing an exceptional level of customer service.
   </p>
   <p>
-  The team <b>Axtella</b> take the time to get to know each client on a one to one basis. We pride ourselves on our professionalism, efficiency and personal touch in dealing with every enquiry, if we don't have what you are looking for, we have an abundance of contacts throughout Ghana who can help us find your idyllic modern home<br/> Whether you're looking to buy, sell or rent, we can offer you a tailored service that you can't get anywhere else. If you have any questions, please don't hesitate to get in touch with us .</p>
+  The team <b>RealEstateLists</b> take the time to get to know each client on a one to one basis. We pride ourselves on our professionalism, efficiency and personal touch in dealing with every enquiry, if we don't have what you are looking for, we have an abundance of contacts throughout Ghana who can help us find your idyllic modern home<br/> Whether you're looking to buy, sell or rent, we can offer you a tailored service that you can't get anywhere else. If you have any questions, please don't hesitate to get in touch with us .</p>
 
   <p><b>Experienced-Trusted-Proven</b></p>
 
@@ -71,11 +71,11 @@ const About = () => (
     <p style={{textAlign:'center', margin:0}}>Commercial & Residential</p>
   </div>
   <div className="Quote">
-  <p>"Axtella Properties & Investments, we're dedicated to providing the best customer services at amazing costs and unbeatable client experiences "</p>
+  <p>"RealEstateLists Properties & Investments, we're dedicated to providing the best customer services at amazing costs and unbeatable client experiences "</p>
     <div className="Profile">
     <img src={require('../images/about.jpg')}alt="profile"/>
     <h3>Edward</h3>
-    <h4>-Axtella</h4>
+    <h4>-RealEstateLists</h4>
 
     </div>
   </div>

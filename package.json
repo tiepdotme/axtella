@@ -1,9 +1,9 @@
 {
-  "name": "Axtella",
+  "name": "RealEstateLists",
   "private": true,
-  "description": "A Real estate web app for axtella",
+  "description": "A Real estate web app for TIEP",
   "version": "0.1.0",
-  "author": "Tolu ola <tosebikan@gmail.com>",
+  "author": "Tiep <tiep@harumu.com>",
   "dependencies": {
     "@reach/router": "^1.3.3",
     "eslint-plugin-react": "^7.20.0",

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Axtellagh`,
-    description: `Real estate web app for Axtella GH`,
-    author: `Tolu ola`,
+    title: `Real Estate Listing`,
+    description: `Real estate listing from Vietnam Australia New Zealand Japan Thailan Korea`,
+    author: `Tiep`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
